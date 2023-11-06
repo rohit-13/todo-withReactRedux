@@ -1,0 +1,7 @@
+export const UPDATE_TAB = "UPDATE_TAB"
+export const GET_TASKS = "GET_TASKS"
+export const ADD_TASK = "ADD_TASK"
+export const UPDATE_TASK = "UPDATE_TASK"
+export const DELETE_TASK = "DELETE_TASK"
+export const DELETE_COMPLETED_TASKS = "DELETE_COMPLETED_TASKS"
+export const SET_TASKS = "SET_TASKS"
